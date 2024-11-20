@@ -14,4 +14,4 @@ spring:
     discovery:
       enabled: false
 server:
-  port: 8888
+  port: 888
