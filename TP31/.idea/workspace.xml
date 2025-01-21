@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53ff0a99-a642-4eca-ab90-7359e21d5212" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/BillingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Controllers/BillRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Models/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Models/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Models/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Models/ProductItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Repository/BillRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Repository/ProductItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Services/CustomerServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/com/project/billingservice/Services/InventoryServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qOwdbrQYMzC8VvEw19jSnaya9e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Batch.mvnw.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/laoun/Documents/EMSI_5IIR/J2EE/TPs/TP3/config-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ff0a99-a642-4eca-ab90-7359e21d5212" name="Changes" comment="" />
+      <created>1734547017952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734547017952</updated>
+      <workItem from="1734547018968" duration="124000" />
+      <workItem from="1734547152830" duration="864000" />
+      <workItem from="1734548159187" duration="44000" />
+      <workItem from="1734548304655" duration="319000" />
+      <workItem from="1734548636157" duration="10000" />
+      <workItem from="1734548702735" duration="70000" />
+      <workItem from="1734551284389" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="271874a8-e6a9-4ee8-9cc8-5aefedf611e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../billing-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-git-repo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP31/billing-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP31/billing-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP31/billing-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Controllers/BillRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Entities/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Entities/ProductItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Models/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Models/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Repository/BillRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Repository/ProductItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Services/CustomerServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/java/java/ma/emsi/billingservice/Services/InventoryServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/main/java/com/project/billingservice/Services/InventoryServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../billing-service/src/main/java/com/project/billingservice/Services/InventoryServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billing-service/src/main/resources/BillingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oW0Omdeg19KLvcsafAR327zC0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Gateway-service [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.GatewayServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/laoun/Documents/EMSI_5IIR/J2EE/TPs/TP3/Gateway-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="271874a8-e6a9-4ee8-9cc8-5aefedf611e4" name="Changes" comment="" />
+      <created>1730970001412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730970001412</updated>
+      <workItem from="1730970002768" duration="509000" />
+      <workItem from="1731580071877" duration="2335000" />
+      <workItem from="1734548879855" duration="339000" />
+      <workItem from="1734551268208" duration="212000" />
+      <workItem from="1734560082279" duration="496000" />
+      <workItem from="1734560651344" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da1c3a0f-8a0b-4e51-a7f5-2a26620f47f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../TP3/config-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../billing-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../billing-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../billing-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TP4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/Gateway-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/Gateway-service/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/Gateway-service/src/main/java/org/sid/gatewayservice/GatewayServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/Gateway-service/src/test/java/org/sid/gatewayservice/GatewayServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Controllers/BillRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Entities/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Entities/ProductItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Models/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Models/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Repository/BillRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Repository/ProductItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Services/CustomerServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/java/java/ma/emsi/billingservice/Services/InventoryServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/billing-service/src/main/resources/BillingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/config-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/config-service/src/test/java/ma/emsi/configservice/ConfigServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/customer-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/customer-service/src/main/java/org/sid/customerservice/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/customer-service/src/main/java/org/sid/customerservice/CustomerProjection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/customer-service/src/main/java/org/sid/customerservice/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/customer-service/src/main/java/org/sid/customerservice/CustomerServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/customer-service/src/test/java/org/sid/customerservice/CustomerServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/discovery-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/discovery-service/src/test/java/ma/emsi/discoveryservice/DiscoveryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/inventory-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/inventory-service/src/main/java/org/sid/inventoryservice/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/inventory-service/src/main/java/org/sid/inventoryservice/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/inventory-service/src/main/java/org/sid/inventoryservice/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TP3/inventory-service/src/test/java/org/sid/inventoryservice/InventoryServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qP0QBkiWQ1mhSH4DcoxKOh6D82" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/laoun/Documents/EMSI_5IIR/J2EE/TPs/TP31/config-git-repo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da1c3a0f-8a0b-4e51-a7f5-2a26620f47f8" name="Changes" comment="" />
+      <created>1734548884548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734548884548</updated>
+      <workItem from="1734548885669" duration="339000" />
+      <workItem from="1734551419021" duration="57000" />
+      <workItem from="1734554888597" duration="610000" />
+      <workItem from="1734558089522" duration="38000" />
+      <workItem from="1734559616907" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
